@@ -1,17 +1,17 @@
-#CSV Calendar Creator
+# CSV Calendar Creator
 
 A script to create a calendar of a particular year in the
 CSV (comma seperated values) format. This can then be edited in most
 spreadsheet applications.
 
-##usage
+## Usage
 ```
 python3 csvcalendar.py
 ```
 
 You will be prompted to enter the year to create a CSV calendar for.
 The calendar is output in the current working directory and the filename is
-"<year>.csv" e.g. 2021.csv for the year 2021.
+"year.csv" e.g. 2021.csv for the year 2021.
 
 ## Licence
 
